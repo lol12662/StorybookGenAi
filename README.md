@@ -15,6 +15,4 @@ pip install transformers diffusers torch accelerate torchvision torchaudio numpy
 Additional Step if your computer uses a GPU for processing, not just a CPU
 ```
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip install --upgrade transformers datasets accelerate
-
 ```
